@@ -43,7 +43,7 @@ there is a helpful tools ![xortool](https://github.com/hellman/xortool)
 `$xortool-xor -f enc_photo.png  -s "Garfield" > flag.png `
 
 and pwn :D we get the flag :D 
-![flag.png](http://img4.imagetitan.com/img4/keQKYsvybh8FkJp/13/13_flag.png)
+![flag.png](flag.png)
 
 FLAG{GARFIELD_LOVES_LASAGNES} :D
 
