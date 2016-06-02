@@ -18,7 +18,7 @@ but not with out picture "enc_photo.png"
 
 so what we should do here is a guess of the password used 
 but we know the original header of any png file
-![header png](http://img4.imagetitan.com/img4/keQKYsvybh8FkJp/13/13_capture29.png)
+![header png](header.png)
 
 then i just write a simple script python to get the key by xoring this 8 byte with the 8 byte  of the encrypted png file
 
