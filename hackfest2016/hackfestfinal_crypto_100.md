@@ -1,7 +1,7 @@
 
 In the final hackfest tunisia ctf 2016 we have a crypto task (100pts) 
 
-![crypto100](https://github.com/chamli/Write_Up_Ctf/blob/master/hackfest2016/crypt100.rar)
+![crypto100](crypt100.rar)
 
 
 so first we open the folder and we get a python code that do encryption and decryption of any file gived with a specific password
@@ -18,6 +18,7 @@ but not with out picture "enc_photo.png"
 
 so what we should do here is a guess of the password used 
 but we know the original header of any png file
+
 ![header png](header.png)
 
 then i just write a simple script python to get the key by xoring this 8 byte with the 8 byte  of the encrypted png file
@@ -38,7 +39,7 @@ and we get key is : Garfield :D
 
 so the last step is to xor the encryption png file with this key and we will get our original png with the flag
 
-there is a helpful tools ![xortool](https://github.com/hellman/xortool)
+there is a helpful tools [xortool](https://github.com/hellman/xortool) 
 
 `$xortool-xor -f enc_photo.png  -s "Garfield" > flag.png `
 
