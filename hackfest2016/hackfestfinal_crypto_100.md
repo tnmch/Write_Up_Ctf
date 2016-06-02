@@ -14,7 +14,7 @@ and also we found a log file
 `computing using ([105, 108, 111, 118, 101, 99, 114, 121, 112, 116, 111, 103, 114, 97, 112, 104, 121])`
 
 convert this we get "ilovecryptography" we used to decrypt enc_mail and its work 
-but not with out picture "enc_photo.png"
+but not with our picture "enc_photo.png"
 
 so what we should do here is a guess of the password used 
 but we know the original header of any png file
