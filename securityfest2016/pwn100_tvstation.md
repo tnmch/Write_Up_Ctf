@@ -34,7 +34,7 @@ but when we reverse the code we get that when we send 4 we get
 
 and here where we start :D
 
-we get the add of system and in the cmd we have buffer overflow but :/ aslr / Nx  : on
+we get the address of system and in the cmd we have buffer overflow but :/ aslr / Nx  : on
 
 ```
 gdb-peda$ checksec
@@ -53,8 +53,8 @@ We need now :
 
 1. Lib add (nm -D libc-2.19.so | grep __libc_system).
 2. Get pop rdi.
-3. Cal add system.
-4. Cal add "/bin/sh"
+3. Cal @add system.
+4. Cal @add "/bin/sh"
 
 
 and our payload will be : "A*40+add_pop_rdi+add_binsh+add_sys"
