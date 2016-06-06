@@ -4,8 +4,9 @@ today i will explain how i solve a task in backdoorctf
 
 first we have a simple ![wav](Dtune.wav) file 
 
-the sound look like someone typing his password in old phone 
+the sound look like someone typing his password in old phone, 
 so its DTMF Tones 
+
 convert the wav to phone number 
 we get this 
 ```
@@ -30,9 +31,9 @@ the flag is shbjm of epcdhxhmaqw
 as in this ctf all the flag should be converted to sha256 before submit so the final text is 
 
 ```
-the flag is sh256 of epcdhxhmaqw
+the flag is sha256 of epcdhxhmaqw
 ```
 
-and the flag is 2fd0a1d0d796cddbeba923ae88f0eea1b17c17e4f71887b95071cc5c0b001a69
+and the flag is : 2fd0a1d0d796cddbeba923ae88f0eea1b17c17e4f71887b95071cc5c0b001a69
 
 thanks 
