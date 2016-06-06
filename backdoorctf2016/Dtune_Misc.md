@@ -34,6 +34,6 @@ as in this ctf all the flag should be converted to sha256 before submit so the f
 the flag is sha256 of EPCDHXHMCAQW
 ```
 
-and the flag is : 2fd0a1d0d796cddbeba923ae88f0eea1b17c17e4f71887b95071cc5c0b001a69
+and the flag is : 39551506faa3c2b1c1ee082adf79938da826910bf953665df882dd62b579759e
 
 thanks 
