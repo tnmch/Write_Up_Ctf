@@ -13,7 +13,7 @@ we get this
 84433033355524044477770777744225606663330337222344994462222779
 ```
 
-as in the ctf the hint said that the flag is a capital alphabetic
+as in the ctf the hint said that the flag is a capital alphabet
 
 so this is not the final flag 
 
@@ -25,13 +25,13 @@ my code used to solve this is ![script](t9.java)
 
 so the output is 
 ```
-the flag is shbjm of epcdhxhmaqw
+the flag is shbjm of EPCDHXHMCAQW
 ```
 
 as in this ctf all the flag should be converted to sha256 before submit so the final text is 
 
 ```
-the flag is sha256 of epcdhxhmaqw
+the flag is sha256 of EPCDHXHMCAQW
 ```
 
 and the flag is : 2fd0a1d0d796cddbeba923ae88f0eea1b17c17e4f71887b95071cc5c0b001a69
