@@ -4,5 +4,5 @@ class Hackfest
    private $hook = "print_flag();";
 
 }
-print (serialize(new Hackfest));
+print urlencode(serialize(new Hackfest));
 ?>
