@@ -14,7 +14,7 @@ but before the ctf end we noticed that there is a not valid domain there "harmle
 so we decided to extract it all 
 using a simple truck in wireshark 
 dns.flags == 0x0100 and dns.qry.name matches "[0-9]{1}.[0-9a-f]{4}.harmlessdomain.net"
-![wireshark capture](http://img4.imagetitan.com/img4/3GoKAL3PO1QfGAk/13/13_ctf.png)
+
 and then File" -> "Export Specified Packets" we get another pcap file with just what we need
 
 then we extract the hex caracteres 
