@@ -15,7 +15,7 @@ and as usual it works :D <br />
 
 simple login bypass  ' or 1=1 -- in username do the job <br />
 
-then just start dump database and get some data which was not so interesting for us , not flag in data base 
+then just start dump database and get some data which was not so interesting for us , no flag in data base 
 
 current DB : task200 <br />
 Table : users <br />
