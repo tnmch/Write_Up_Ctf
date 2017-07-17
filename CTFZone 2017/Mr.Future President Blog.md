@@ -1,26 +1,26 @@
-So first it was really amazing task that make me work hard and try again and again to get something
-Our team was working on this task and its a good way to get the job done when you have good web guys
-We didnt get the last part which is just 5% of the task but we did well even we dont get the flag before the ctf end
+So first it was really amazing task that make me work hard and try again and again to get something<br />
+Our team was working on this task and its a good way to get the job done when you have good web guys<br />
+We didnt get the last part which is just 5% of the task but we did well even we dont get the flag before the ctf end<br />
+<br />
+Its good too to share what we get and why not to share last part we miss <br />
 
-Its good too to share what we get and why not to share last part we miss 
-
-First it was a web login page that 
+First it was a web login page that <br />
 
 ![login](https://user-images.githubusercontent.com/7364615/28275160-5715e578-6b13-11e7-8be3-746bb7dcc705.PNG)
 
-OK here where the challenge start
+OK here where the challenge start<br />
 
-As always check sql injection is the good way to fast work :D 
-and as usual it works :D
+As always check sql injection is the good way to fast work :D <br />
+and as usual it works :D <br />
 
-simple login bypass  ' or 1=1 -- in username do the job 
+simple login bypass  ' or 1=1 -- in username do the job <br />
 
 then just start dump database and get some data which was not so interesting for us , not flag in data base 
 
-current DB : task200
-Table : users
-user : admin
-password : verystrongpassword
+current DB : task200 <br />
+Table : users <br />
+user : admin <br />
+password : verystrongpassword <br />
 
 and also table posts with static data
 
