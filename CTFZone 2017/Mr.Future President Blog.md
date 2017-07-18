@@ -4,7 +4,7 @@ We didnt get the last part which is just 5% of the task but we did well even we 
 <br />
 Its good too to share what we get and why not to share last part we miss <br />
 
-First it was a web login page that <br />
+First it was a web login page <br />
 
 ![login](https://user-images.githubusercontent.com/7364615/28275160-5715e578-6b13-11e7-8be3-746bb7dcc705.PNG)
 
