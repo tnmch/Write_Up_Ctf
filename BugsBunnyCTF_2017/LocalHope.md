@@ -53,7 +53,7 @@ There is csrf token also , so first csp and then csrf LOOL , maybe many player w
  
  But there is always hope for you guys as the picture said :D
  
- our msg payload is just printed after the for balise :D so what we can do!!
+ our msg payload is just printed after the form balise :D so what we can do!!
  
  Did you know guys we can do alot of staff here :p
  
