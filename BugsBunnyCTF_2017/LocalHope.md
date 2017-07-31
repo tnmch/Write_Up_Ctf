@@ -92,3 +92,8 @@ FLAG : Bugs_Bunny{Oh_You_FFirst_Find_Me_And_Bypass_My_CSP_:((!!}
 HOPE YOU GUYS ENJOYED MY WEB TASK :D 
 see you next year
 
+
+BTW it was soled by only 2 team : 
+
+![image](https://user-images.githubusercontent.com/7364615/28776758-5e7edbe0-75f8-11e7-88e6-8756a269c6ec.png)
+
