@@ -1,6 +1,6 @@
 Hello all  , after reading some write up , i notice that 90% of players solved this challenge with the simple and easy way 
 
-using .htaccess file to find the flag file name and then read it using LFI was really to easy and fast 
+using .htaccess file to find the flag file name and then read it using LFI was really easy and fast 
 
 
 But in our team always we look for hard way :D joking 
