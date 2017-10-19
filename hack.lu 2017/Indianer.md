@@ -45,7 +45,7 @@ So no need space here
 
 ![capture d ecran 2017-10-19 a 11 37 02 am](https://user-images.githubusercontent.com/7364615/31767126-da3ef960-b4c1-11e7-91e3-776e15b18598.png)
 
-Also flag we be not printed here in the web part 
+Also flag will not shown here in the web part 
 
 So if we make the flag redirected  somewhere it maybe will work 
 
