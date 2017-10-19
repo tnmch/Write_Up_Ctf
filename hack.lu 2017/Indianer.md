@@ -35,7 +35,7 @@ what Next?
 
 first what we tried to do it to understand where the flag will be shown
 
-We tried first simple check like https://indianer.flatearth.fluxfingers.net/index.html_dpdpdpamamamamajvjvjvjvgsgsgsgsgpdp=lsdpdpdpamamamamajvjvjvjvgsgsgsgsgpdp=ls
+We tried first simple check like https://indianer.flatearth.fluxfingers.net/index.html_dpdpdpamamamamajvjvjvjvgsgsgsgsgpdp=ls
 
 but for sure no output there :(
 
