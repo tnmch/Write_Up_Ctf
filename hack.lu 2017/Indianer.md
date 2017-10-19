@@ -4,7 +4,7 @@ So i will explain my team solution for this task
 
 It was really amazing task because its reverse + web so it need lot of knowledge to solve it
 
-So first but check the task 
+So first we check the task !
 
 ![capture d ecran 2017-10-19 a 11 23 25 am](https://user-images.githubusercontent.com/7364615/31766621-fdbd0a96-b4bf-11e7-9d15-05c19c028ec8.png)
 
