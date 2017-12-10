@@ -65,7 +65,7 @@ And when query False Time = 500 ms
 
 Then start code to make it fast and easy 
 
-This is my script : [Script](SECCON_2017/web400.py)
+This is my script : [Script](https://github.com/chamli/Write_Up_Ctf/blob/master/SECCON_2017/web400.py)
 
 Just decrease the time in the script due to some problem , so its depend 
 
